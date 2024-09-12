@@ -42,7 +42,7 @@ await conn.reply(m.chat, '🌺 _*Ocurrió un fallo*_',  m, rcanal, )
 }
 handler.help = ['dsowner']
 handler.tags = ['fix', 'owner']
-handler.command = /^(delgoku2|dsowner|clearallsession)$/i
+handler.command = /^(delnilou2|dsowner|clearallsession)$/i
 
 handler.rowner = true
 
