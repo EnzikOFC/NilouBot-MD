@@ -55,34 +55,34 @@ setTimeout(resolve, 1000)
 }
 let timestamp = speed()
 let latensi = speed() - timestamp
-let goku = `╭─⬣「 *Info De Goku* 」⬣\n`
-goku += `│ 👑 *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}\n`
-goku += `│ 🍭 *Prefijo* : [  ${usedPrefix}  ]\n`
-goku += `│ 📦 *Total Plugins* : ${totalf}\n`
-goku += `│ 💫 *Plataforma* : ${platform()}\n`
-goku += `│ 🧿 *Servidor* : ${hostname()}\n`
-goku += `│ 🚀 *RAM* : ${format(totalmem() - freemem())} / ${format(totalmem())}\n`
-goku += `│ 🌟 *FreeRAM* : ${format(freemem())}\n`
-goku += `│ ✨️ *Speed* : ${latensi.toFixed(4)} ms\n`
-goku += `│ 🕗 *Uptime* : ${uptime}\n`
-goku += `│ 🍟 *Modo* : ${bot.public ? 'Privado' : 'Publico'}\n`
-goku += `│ 🚩 *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* )\n`
-goku += `│ 🐢 *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )\n`
-goku += `│ 🍧 *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios\n`
-goku += `╰─⬣\n\n`
-goku += `╭─⬣「 *Chats De Goku* 」⬣\n`
-goku += `│ 🧃 *${groupsIn.length}* Chats en Grupos\n`
-goku += `│ 🌸 *${groupsIn.length}* Grupos Unidos\n`
-goku += `│ 🍁 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
-goku += `│ 💬 *${chats.length - groupsIn.length}* Chats Privados\n`
-goku += `│ 💭 *${chats.length}* Chats Totales\n`
-goku += `╰─⬣\n\n`
-goku += `╭─⬣「 *NodeJS Uso de memoria* 」⬣\n`
-goku += `${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}\n`
-goku += `╰─⬣`
+let nilou = `╭─⬣「 *Info De Nilou* 」⬣\n`
+nilou += `│ 👑 *Creador* : @${owner[0][0].split('@s.whatsapp.net')[0]}\n`
+nilou += `│ 🍭 *Prefijo* : [  ${usedPrefix}  ]\n`
+nilou += `│ 📦 *Total Plugins* : ${totalf}\n`
+nilou += `│ 💫 *Plataforma* : ${platform()}\n`
+nilou += `│ 🧿 *Servidor* : ${hostname()}\n`
+nilou += `│ 🚀 *RAM* : ${format(totalmem() - freemem())} / ${format(totalmem())}\n`
+nilou += `│ 🌟 *FreeRAM* : ${format(freemem())}\n`
+nilou += `│ ✨️ *Speed* : ${latensi.toFixed(4)} ms\n`
+nilou += `│ 🕗 *Uptime* : ${uptime}\n`
+nilou += `│ 🍟 *Modo* : ${bot.public ? 'Privado' : 'Publico'}\n`
+nilou += `│ 🚩 *Comandos Ejecutados* : ${toNum(totalStats)} ( *${totalStats}* )\n`
+nilou += `│ 🐢 *Grupos Registrados* : ${toNum(totalchats)} ( *${totalchats}* )\n`
+nilou += `│ 🍧 *Registrados* : ${toNum(totalreg)} ( *${totalreg}* ) Usuarios\n`
+nilou += `╰─⬣\n\n`
+nilou += `╭─⬣「 *Chats De Goku* 」⬣\n`
+nilou += `│ 🧃 *${groupsIn.length}* Chats en Grupos\n`
+nilou += `│ 🌸 *${groupsIn.length}* Grupos Unidos\n`
+nilou += `│ 🍁 *${groupsIn.length - groupsIn.length}* Grupos Salidos\n`
+nilou += `│ 💬 *${chats.length - groupsIn.length}* Chats Privados\n`
+nilou += `│ 💭 *${chats.length}* Chats Totales\n`
+nilou += `╰─⬣\n\n`
+nilou += `╭─⬣「 *NodeJS Uso de memoria* 」⬣\n`
+nilou += `${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}\n`
+nilou += `╰─⬣`
 
-await conn.reply(m.chat, goku, fkontak, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: '↷✦╎Info - Bot╎🚩˖ ⸙',body: false, previewType: 0, thumbnail: icons, sourceUrl: redes}}})
-// await conn.sendFile(m.chat, imagen1, 'luffy.jpg', luffy, fkontak, null, rcanal)
+await conn.reply(m.chat, nilou, fkontak, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: '↷✦╎Info - Bot╎🚩˖ ⸙',body: false, previewType: 0, thumbnail: icons, sourceUrl: redes}}})
+// await conn.sendFile(m.chat, imagen1, 'luffy.jpg', nilou, fkontak, null, rcanal)
 }
 handler.help = ['infobot']
 handler.tags = ['main']
