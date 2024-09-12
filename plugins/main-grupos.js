@@ -35,7 +35,7 @@ await conn.sendFile(m.chat, imagen3, 'luffy.jpg', gps, fkontak, null, rcanal)}
 
 handler.tags = ['main']
 handler.help = ['grupos']
-handler.command = /^grupos|gruposgoku|linkre|gokugp|gpgoku|gruposofc|gruposoficiales$/i
+handler.command = /^grupos|gruposniloi|linkre|nilougp|gpnilou|gruposofc|gruposoficiales$/i
 handler.register = true
 
 export default handler
