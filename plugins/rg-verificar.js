@@ -52,12 +52,12 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
 ║
 ║ ✨ 𝗥𝗲𝗰𝗼𝗺𝗽𝗲𝗻𝘀𝗮𝘀:
 ║• *15* _Estrellas_ 🌟
-║• *5* _GokuCoins_ 🪙
+║• *5* _NilouCoins_ 🪙
 ║• *245* _Experiencia_ 💸
 ║• *12* _Tokens_ 💰
 ╚═✦「✰✰✰✰✰✰✰✰✰✰✰」═╯`
 
-/* let name = 'ɢᴏᴋᴜʙᴏᴛ-ᴍᴅ' */ //xD
+/* let name = 'ɴɪʟᴏᴜʙᴏᴛ-ᴍᴅ' */ //xD
 
   conn.sendMessage(m.chat, {
     text: regbot,
