@@ -12,7 +12,7 @@ import { xpRange } from '../lib/levelling.js'
 
 
 /*let redes = {
-youtube: 'https://youtube.com/@Jostin207oficialmanito'
+youtube: 'https://www.youtube.com/@Enzito-19'
 };*/
 
 let tags = {
