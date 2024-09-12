@@ -21,6 +21,8 @@ async function handler(m, { conn: stars, usedPrefix }) {
 //await conn.reply(m.chat, responseMessage, m, rcanal)
 }
 
+/*let user = '${user}' /* //JSJSJS SEGUN YO
+
 handler.command = ['listjadibot', 'bots']
 handler.help = ['bots']
 handler.tags = ['jadibot']
