@@ -5,10 +5,10 @@ import path from 'path';
 
 const handler = async (m, { conn, usedPrefix }) => {
   if (global.conn.user.jid !== conn.user.jid) {
-    return conn.sendMessage(m.chat, {text: '_[🌹]Ejecuta El Comando En El GokuBot-MD Principal._'}, {quoted: m});
+    return conn.sendMessage(m.chat, {text: '_[🌹]Ejecuta El Comando En El NilouBot-MD Principal._'}, {quoted: m});
   }
   await conn.sendMessage(m.chat, {text: '_[🌹] Se Esta Ejecutando Proceso Eliminacion De Datos Files._'}, {quoted: m});
-  const sessionPath = './GokuSession/';
+  const sessionPath = './NilouSession/';
   try {
     if (!existsSync(sessionPath)) {
       return await conn.sendMessage(m.chat, {text: '_[🌹] No Se Encuantra La Carpeta (Undenifed)_ '}, {quoted: m});
@@ -34,6 +34,6 @@ const handler = async (m, { conn, usedPrefix }) => {
 };
 handler.help = ['del_reg_in_session_owner'];
 handler.tags = ['owner'];
-handler.command = /^(del_reg_in_session_owner|lobodel|delgoku|clearallsession)$/i;
+handler.command = /^(del_reg_in_session_owner|niloudel|delnilou|clearallsession)$/i;
 handler.rowner = true
 export default handler;
