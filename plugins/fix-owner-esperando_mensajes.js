@@ -30,7 +30,7 @@ const handler = async (m, { conn, usedPrefix }) => {
     console.error('Error al leer la carpeta o los archivos de sesión:', err);
     await conn.sendMessage(m.chat, {text: '_[🌹] Ejecución Fallida._'}, {quoted: m});
   }
-  await conn.sendMessage(m.chat, {text: `_📍Listo, Ejecución Perfecta.📍_\n\n[✔️] _Si GokuBot-MD No Responde Haga Un Pequeño Spam._\n\n*—◉ ᴇᴊᴇᴍᴘʟᴏ:*\n${usedPrefix}s\n${usedPrefix}s\n${usedPrefix}s`}, {quoted: m});
+  await conn.sendMessage(m.chat, {text: `_📍Listo, Ejecución Perfecta.📍_\n\n[✔️] _Si NilouBot-MD No Responde Haga Un Pequeño Spam._\n\n*—◉ ᴇᴊᴇᴍᴘʟᴏ:*\n${usedPrefix}s\n${usedPrefix}s\n${usedPrefix}s`}, {quoted: m});
 };
 handler.help = ['del_reg_in_session_owner'];
 handler.tags = ['owner'];
