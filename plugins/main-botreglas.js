@@ -10,7 +10,7 @@ let nilou = `🚩 *Respeta las reglas de NilouBot*\n
 
 🍬 𝗡𝗼𝘁𝗮: *Si no cumples con las reglas del bot, seras bloqueado.*
 
-⚠️ 𝗔𝘃𝗶𝘀𝗼: *Puedes apoyarnos dejando una estrellita 🌟 al repositorio oficial de Goku.\nLink:\n>https://github.com/EnzikOFC/NilouBot-MD*
+⚠️ 𝗔𝘃𝗶𝘀𝗼: *Puedes apoyarnos dejando una estrellita 🌟 al repositorio oficial de Nilou\nLink:*
 
 ${global.md}`.trim()
 await conn.reply(m.chat, nilou, m, rcanal, )
