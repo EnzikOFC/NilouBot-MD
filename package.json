@@ -1,5 +1,5 @@
 {
-"name": "GokuBot-MD",
+"name": "NilouBot-MD",
 "version": "2.0.2", 
 "description": "Super Bot De WhatsApp",
 "main": "index.js",
@@ -15,16 +15,16 @@
 "qr": "node index.js qr",
 "code": "node index.js code" },
 
-"homepage": "https://github.com/Jostin207/GokuBot-MD",
+"homepage": "https://github.com/EnzikOFC/NilouBot-MD",
 "author": {
-"name": "Jostin.Oғᴄ" },
+"name": "Enzik.ᴏғᴄ" },
 
 "repository": {
 "type": "git",
-"url": "git+https://github.com/Jostin207/GokuBot-MD.git" },
+"url": "git+https://github.com/EnzikOFC/NilouBot-MD.git" },
 
 "bugs": {
-"url": "https://github.com/Jostin207/GokuBot-MD/issues" },
+"url": "https://github.com/EnzikOFC/NilouBot-MD/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@adiwajshing/keyed-db": "^0.2.4",
