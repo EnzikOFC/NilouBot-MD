@@ -154,7 +154,7 @@ href="https://github.com/EnzikOFC"><img src="https://github.com/EnzikOFC.png" wi
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6CFF54&center=false&width=435&lines=Mensaje+De+"Enzito"+:++No+Robar+" alt="Typing SVG" /></a>
+### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6CFF54&center=false&width=435&lines=Mensaje+De+Enzito+:++No+Robar+" alt="Typing SVG" /></a>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
