@@ -45,14 +45,14 @@ global.gp1 = 'https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s' //Grupo Oficial 
 global.gp2 = 'https://chat.whatsapp.com/KQA5YEnMMhE9PQODSh6I7B' //Grupo Oficial De Goku 2 
 global.gp3 = 'https://chat.whatsapp.com/FOS2BU04peN3cQaiDmLq0j' //KiraBot Y Goku
 global.gp4 = 'https://chat.whatsapp.com/EVc2XJuZwjnKKdWUsRYmms' //NilouBot Y Goku 𝗙𝗔𝗟𝗧𝗔
-global.comunidad1 = '' //Comunidad Goku
+global.comunidad1 = ''
 global.comunidad2 = 'https://chat.whatsapp.com/GpbF3JCTEr2CSj3zLJ1IQj' //Comunidad de Moonligth
 global.channel = 'https://whatsapp.com/channel/0029VajIId22phHQLslZah1n' //Canal Oficial
 global.channel2 = 'https://whatsapp.com/channel/0029Vablj8M05MUnustq3q1S' //Canal MoonLight Team 
 global.yt = 'https://www.youtube.com/@Enzito-19' //Canal De Youtube
-global.md = '' //Github Oficial
-global.fb = '' //Facebook Del Propietario
-global.tiktok = '' //Cuenta tiktok
+global.md = ''
+global.fb = '' 
+global.tiktok = ''
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
