@@ -6,17 +6,17 @@ let staff = `🌹 *EQUIPO DE AYUDANTES*
 
 👑 *Propietario:*
 
-• Jostin207
+• Enzito
 🌱 *Rol:* Propietario
 🌴 *Número:* ${creador}
-🚩 *GitHub:* https://github.com/Jostin207
+🚩 *GitHub:* https://github.com/EnzikOFC
 
 🪴  *Desarrollador:*
 
-• Dev-Diego
+• Jostin207
 🌱 *Rol:* Desarrollador
-🌴 *Número:* Wa.me/573012482597
-🚩 *GitHub:* https://github.com/Dev-Diego`
+🌴 *Número:* Wa.me/593939005387
+🚩 *GitHub:* https://github.com/Jostin207`
 await conn.sendFile(m.chat, icons, 'luffy.jpg', staff.trim(), fkontak, true, {
 contextInfo: {
 'forwardingScore': 200,
