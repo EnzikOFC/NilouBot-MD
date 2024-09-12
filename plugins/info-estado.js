@@ -14,16 +14,16 @@ let muptime = clockString(_muptime)
 const chats = Object.entries(conn.chats).filter(([id, data]) => id && data.isChats)
 const groupsIn = chats.filter(([id]) => id.endsWith('@g.us')) 
 const used = process.memoryUsage()
-let goku = `╭─⬣「 *Estado De Nilou* 」⬣\n`
-goku += `│ 🚩 *Creador ∙* Enzito\n`
-goku += `│ 📚 *Grupos Unidos ∙* ${groupsIn.length}\n`
-goku += `│ 👤 *Chats Privados ∙* ${chats.length - groupsIn.length}\n`
-goku += `│ 💬 *Total De Chats ∙* ${chats.length}\n`
-goku += `│ 🍟 *Usuarios Registrados ∙* ${totalreg}\n`
-goku += `│ 🍭 *Grupos Registrados ∙* ${totalchats}\n`
-goku += `│ 🕜 *Actividad ∙* ${muptime}\n`
-goku += `╰─⬣`
-await conn.sendFile(m.chat, pp, 'luffy.jpg', goku, fkontak, null, rcanal)
+let nilou = `╭─⬣「 *Estado De Nilou* 」⬣\n`
+nilou += `│ 🚩 *Creador ∙* Enzito\n`
+nilou += `│ 📚 *Grupos Unidos ∙* ${groupsIn.length}\n`
+nilou += `│ 👤 *Chats Privados ∙* ${chats.length - groupsIn.length}\n`
+nilou += `│ 💬 *Total De Chats ∙* ${chats.length}\n`
+nilou += `│ 🍟 *Usuarios Registrados ∙* ${totalreg}\n`
+nilou += `│ 🍭 *Grupos Registrados ∙* ${totalchats}\n`
+nilou += `│ 🕜 *Actividad ∙* ${muptime}\n`
+nilou += `╰─⬣`
+await conn.sendFile(m.chat, pp, 'luffy.jpg', nilou, fkontak, null, rcanal)
 }
 handler.help = ['status']
 handler.tags = ['info']
