@@ -35,9 +35,9 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 global.creador = 'Wa.me/593939005387'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/593978663361'
-global.namechannel = '🚩 𝗚𝗼𝗸𝘂 𝗕𝗼𝘁 - 𝗠𝗗​᭄ ᎪΝႮΝᏟᏆϴՏ'
+global.namechannel = '🚩 𝗡𝗶𝗹𝗼𝘂 𝗕𝗼𝘁 - 𝗠𝗗​᭄ ᎪΝႮΝᏟᏆϴՏ'
 global.namechannel2 = '𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁 - 𝗧𝗲𝗮𝗺'
-global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗚𝗼𝗸𝘂𝗕𝗼𝘁'
+global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗡𝗶𝗹𝗼𝘂𝗕𝗼𝘁'
 global.namecomu2 = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗠𝗼𝗼𝗻𝗹𝗶𝗴𝗵𝘁'
 global.colab1 = '𝗞𝗶𝗿𝗮𝗕𝗼𝘁 & 𝗚𝗼𝗸𝘂𝗕𝗼𝘁'
 global.colab2 = '𝗡𝗶𝗹𝗼𝘂 & 𝗚𝗼𝗸𝘂𝗕𝗼𝘁'
@@ -62,13 +62,13 @@ global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁𝗼 ...*';
 
 //Enlaces
-var canal = 'https://whatsapp.com/channel/0029VaJL0xn0LKZL7FtiRs1e' 
-var canal2 = 'https://whatsapp.com/channel/0029Vablj8M05MUnustq3q1S'  
-var git = 'https://github.com/Jostin207' 
-var youtube = 'https://www.youtube.com/@jostin20oficialmanito' 
-var github = 'https://github.com/Jostin207/GokuBot-MD' 
-var facebook = 'https://www.facebook.com/JostinOfici' 
-let tiktok = 'https://tiktok.com/@thegokubotmd'
+var canal = 'https://whatsapp.com/channel/0029VajIId22phHQLslZah1n' 
+var canal2 = 'https://whatsapp.com/channel/0029VajIId22phHQLslZah1n'  
+var git = 'https://github.com/EnzikOFC' 
+var youtube = 'https://www.youtube.com/@Enzito-19' 
+var github = 'https://github.com/EnzikOFC/NilouBot-MD' 
+var facebook = '' 
+let tiktok = ''
 
 global.redes = [canal, canal2, git, youtube, github, facebook, tiktok].getRandom()
 
