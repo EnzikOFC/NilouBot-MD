@@ -174,7 +174,7 @@ readmore: readMore
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 
 const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-await conn.reply(m.chat, '*🦋 Humano Dame Unos Segundo, Ya Le Envio El Menú.*', 
+await conn.reply(m.chat, '*🦋 Humano Dame Unos Segundos, Ya Te Envio El Menú.*', 
 null, { 
 contextInfo:{ 
 forwardingScore: 2022, 
