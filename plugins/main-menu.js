@@ -7,12 +7,12 @@ import { xpRange } from '../lib/levelling.js'
 
 /*let fkontak = {
   id: '5491168758497@s.whatsapp.net',
-  name: 'Enzito' //jajajaaj
+  name: 'ENZO' //jajajaaj
 };*/
 
 
 /*let redes = {
-youtube: 'https://www.youtube.com/@Enzito-19'
+youtube: 'https://youtube.com/@Enzito-19'
 };*/
 
 let tags = {
@@ -36,16 +36,16 @@ let tags = {
   'info': '🄸🄽🄵🄾🅁🄼🄰🄲🄸🄾́🄽',
   'nsfw': '🄽🅂🄵🅆', 
   'owner': '🄲🅁🄴🄰🄳🄾🅁', 
-  'mods': '🅂🅃🄰🄵🄵 🄽🄸🄻🄾🅄',
+  'mods': '🅂🅃🄰🄵🄵',
   'audio': '🄰🅄🄳🄸🄾🅂', 
   'ai': '×🄰×🄸×',
   'transformador': '🄲🄾🄽🅅🄴🅁🅃🄸🄳🄾🅁🄴🅂',
 }
 
 const defaultMenu = {
-  before: `💫 𝐌𝐞𝐧𝐮 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝐃𝐞 𝐍𝐢𝐥𝐨𝐮𝐁𝐨𝐭-𝐌𝐃
+  before: `🦋 𝐌𝐞𝐧𝐮 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 𝐃𝐞 𝐍𝐢𝐥𝐨𝐮𝐁𝐨𝐭-𝐌𝐃
 
-“Bienvenido humano tu eres *%name* y yo soy *NilouBot-MD* %greeting ”
+“Hola *%name* Que Tal? Yo Soy *NilouBot-MD*, %greeting Disfruta De Mi Menú"
 
 .    ╭─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🍧⃘⃪۪֟፝֯۫۫۫۬◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈ ─๋︩︪─╮
 ╭╼☁️⬪࣪ꥈ𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪ 🄼🄴🄽🅄-🄱🄾🅃໑⃪࣭۪ٜ݊݊݊݊𑁍ꥈ࣪⬪☁️
@@ -53,14 +53,14 @@ const defaultMenu = {
 ├ׁ̟̇❍✎ *🄲ʀᴇᴀᴅᴏʀ:* _ᴇɴᴢɪᴛᴏ_
 ├ׁ̟̇❍✎ *🄼ᴏᴅᴏ:* Público
 ├ׁ̟̇❍✎ *🄱ᴀɪʟᴇʏs:* Multi Device
-├ׁ̟̇❍✎ *🅃ɪᴇᴍᴘᴏ 🄰ᴄᴛɪᴠᴏ:* %muptime
+├ׁ̟̇❍✎ *🅃ɪᴇᴍᴘᴏ 🄰ᴄᴛɪᴠᴀ:* %muptime
 ├ׁ̟̇❍✎ *🅄sᴜᴀʀɪᴏs:* %totalreg
 ╚▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬ִ▭࣪▬▭╝
 
 %readmore
-.    ╭─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🌺◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈ ─๋︩︪─╮
+.    ╭─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🍂◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈ ─๋︩︪─╮
 ╭╼☁️⬪࣪ꥈ𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪ 🅄🅂🅄🄰🅁🄸🄾໑⃪࣭۪ٜ݊݊݊݊𑁍ꥈ࣪⬪☁️
-┃֪࣪  ╰─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🌺◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈ ─๋︩︪─╯
+┃֪࣪  ╰─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🍂◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈ ─๋︩︪─╯
 ├ׁ̟̇❍✎ *🄲ʟɪᴇɴᴛᴇ:* %name
 ├ׁ̟̇❍✎ *🄴xᴘ:* %exp
 ├ׁ̟̇❍✎ *🄴sᴛʀᴇʟʟᴀs:* %estrellas
@@ -174,7 +174,8 @@ readmore: readMore
 text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
 
 const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-await conn.reply(m.chat, '*🦋 ᰩ❥𝐂𝐚𝐫𝐠𝐚𝐧𝐝𝐨 𝐌𝐞𝐧𝐮́ 𝐄𝐬𝐩𝐞𝐫𝐞❦᭄...*', 
+
+await conn.reply(m.chat, '*🦋 ᰩ❥𝐂𝐚𝐫𝐠𝐚𝐧𝐝𝐨 𝐌𝐞𝐧𝐮́ 𝐄𝐬𝐩𝐞𝐫𝐞❦᭄....*', 
 null, { 
 contextInfo:{ 
 forwardingScore: 2022, 
@@ -183,17 +184,23 @@ externalAdReply: {
 title: null, 
 body: null, 
 sourceUrl: redes, 
-thumbnail: icons }}}) 
-m.react('✅')
-    let pp = 'https://qu.ax/olEc.mp4'
-    let pp2 = 'https://qu.ax/olEc.mp4'
+thumbnail: icons }}})
+await m.react('✅️') 
+  let category = "imagen"
+  const db = './media/database/db.json'
+  const db_ = JSON.parse(fs.readFileSync(db))
+  const random = Math.floor(Math.random() * db_.links[category].length)
+  const rlink = db_.links[category][random]
+  global.vid = rlink
+  const response = await fetch(vid)
+  const gif = await response.buffer()
+// const img = imagen1
 
-conn.sendMessage(m.chat, { video: { url: [pp, pp2].getRandom() }, gifPlayback: true, caption: text.trim(), mentions: [m.sender] }, { quoted: null })
+await conn.sendMini(m.chat, packname, wm, text.trim(), icons, icons, redes, null)
 
-  } catch (e) {
-  m.react(error)
- conn.reply(m.chat, '❗ Lo sentimos, el menú tiene un error', m, rcanal, )
-   throw e
+  } catch {
+    conn.reply(m.chat, '❗ Lo sentimos, el menú tiene un error', m, rcanal, )
+   // throw e
   }
 }
 handler.help = ['menu']
