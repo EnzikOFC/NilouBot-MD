@@ -81,7 +81,7 @@ nilou += `╭─⬣「 *NodeJS Uso de memoria* 」⬣\n`
 nilou += `${'```' + Object.keys(used).map((key, _, arr) => `${key.padEnd(Math.max(...arr.map(v => v.length)), ' ')}: ${format(used[key])}`).join('\n') + '```'}\n`
 nilou += `╰─⬣`
 
-await conn.reply(m.chat, nilou, fkontak, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: '↷✦╎Info - Bot╎🚩˖ ⸙',body: false, previewType: 0, thumbnail: icons, sourceUrl: redes}}})
+//await conn.reply(m.chat, nilou, fkontak, { contextInfo: { mentionedJid: [owner[0][0] + '@s.whatsapp.net'], externalAdReply: { mediaUrl: false, mediaType: 1, description: false, title: '↷✦╎Info - Bot╎🚩˖ ⸙',body: false, previewType: 0, thumbnail: icons, sourceUrl: redes}}})
 await conn.sendFile(m.chat, imagen1, 'luffy.jpg', nilou, fkontak, null, rcanal)
 }
 handler.help = ['infobot']
