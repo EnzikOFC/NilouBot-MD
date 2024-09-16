@@ -19,14 +19,14 @@ await res.getRandom()]
 dev,
 await res.getRandom()]
 ], [ // CARRUSEL 3
-'Imagen 2',
+'Imagen 3',
 dev,
 await res.getRandom()]
 ], [ // CARRUSEL 4
 'Imagen 4',
 dev,
 await res.getRandom()]
-]] /* etc... */
+]] 
 await conn.sendCarousel(m.chat, '🚩 Buscador - Imagenes', `🔍 Resultado de: ${text}`, text, messages, m)     
 };
 handler.help = ['imagen <query>'];
