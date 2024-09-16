@@ -121,7 +121,7 @@ https://github.com/user-attachments/assets/93e3c259-6220-497e-b575-505ed708bc44
 <a
 href="https://github.com/Dev-Diego"><img src="https://github.com/Dev-Diego.png" width="100" height="100" alt="OfcDiego"/></a>
 <a
-href="https://github.com/Jostin207/GokuBot-MD-"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Jostin207"/></a>
+href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="Jostin207"/></a>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
