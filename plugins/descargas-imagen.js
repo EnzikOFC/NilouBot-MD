@@ -11,23 +11,23 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   const image = await res.getRandom();
   //conn.sendFile(m.chat, link, 'error.jpg', `*🔎 Resultado De: ${text}*\n> ${textbot}`, m, null, rcanal);
 const messages = [[ // CARRUSEL 1
-'Imagen 1', 
+'1 Imagen', 
 dev,
 await res.getRandom()
 ], [ // CARRUSEL 2
-'Imagen 2',
+'2 Imagen',
 dev,
 await res.getRandom()
 ], [ // CARRUSEL 3
-'Imagen 3',
+'3 Imagen',
 dev,
 await res.getRandom()
 ], [ // CARRUSEL 4
-'Imagen 4',
+'4 Imagen',
 dev,
 await res.getRandom()
 ]] 
-await conn.sendCarousel(m.chat, '🚩 Buscador - Imagenes', `🔍 Resultado de: ${text}`, text, messages, m)     
+await conn.sendCarousel(m.chat, '🚩 Buscador - Imagenes', `> 🔍 Resultado de: ${text}`, text, messages, fkontak)     
 };
 handler.help = ['imagen <query>'];
 handler.tags = ['buscador', 'tools', 'descargas'];
