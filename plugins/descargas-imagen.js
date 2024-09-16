@@ -44,7 +44,7 @@ link,
 [[]],
 [[]]
 ]] /* etc... */
-await conn.sendCarousel(m.chat, 'Texto', 'Decargador Imagen 🔍', text, messages, m)     
+await conn.sendCarousel(m.chat, 'Descargador imagen 🔍', `> ${text}`, text, messages, m)     
 };
 handler.help = ['imagen <query>'];
 handler.tags = ['buscador', 'tools', 'descargas'];
