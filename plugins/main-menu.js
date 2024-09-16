@@ -196,7 +196,7 @@ await m.react('✅️')
   const gif = await response.buffer()
 // const img = imagen1
 
-await conn.sendMini(m.chat, packname, wm, text.trim(), icons, icons, redes, null)
+await conn.sendMini(m.chat, packname, wm, text.trim(), icons, icons, gp1, null)
 
   } catch {
     conn.reply(m.chat, '❗ Lo sentimos, el menú tiene un error', m, rcanal, )
