@@ -10,6 +10,8 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   const res = await googleImage(text);
   const image = await res.getRandom();
   const link = image;
+  const link2 = image;
+  const link3 = image;
   //conn.sendFile(m.chat, link, 'error.jpg', `*🔎 Resultado De: ${text}*\n> ${textbot}`, m, null, rcanal);
 const messages = [[ // CARRUSEL 1
 'Imagen 1', 
@@ -22,7 +24,7 @@ link,
 ], [ // CARRUSEL 2
 'Imagen 2',
 dev,
-link,
+image,
 [[null, null] /* etc... */],
 [[]],
 [[]],
@@ -30,7 +32,7 @@ link,
 ], [ // CARRUSEL 3
 'Imagen 2',
 dev,
-link,
+link2,
 [[null, null] /* etc... */],
 [[]],
 [[]],
@@ -38,7 +40,7 @@ link,
 ], [ // CARRUSEL 4
 'Imagen 4',
 dev,
-link,
+link3,
 [[null, null] /* etc... */],
 [[]],
 [[]],
