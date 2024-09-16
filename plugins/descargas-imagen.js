@@ -13,9 +13,9 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   //conn.sendFile(m.chat, link, 'error.jpg', `*🔎 Resultado De: ${text}*\n> ${textbot}`, m, null, rcanal);
 const messages = [[ // CARRUSEL 1
 'Imagen 1', 
-'Footer de Carrusel 1',
+dev,
 link,
-[['No tocar', usedPrefix + 'menu'] /* etc... */],
+[['No tocar', ''] /* etc... */],
 [[null, null]],
 [[]],
 [[]]
@@ -23,7 +23,7 @@ link,
 'Imagen 2',
 dev,
 link,
-[['No tocar', usedPrefix + 'menu'] /* etc... */],
+[['No tocar', ''] /* etc... */],
 [[]],
 [[]],
 [[]]
@@ -31,7 +31,7 @@ link,
 'Imagen 2',
 dev,
 link,
-[['No tocar', usedPrefix + 'menu'] /* etc... */],
+[['No tocar', ''] /* etc... */],
 [[]],
 [[]],
 [[]]
@@ -39,12 +39,12 @@ link,
 'Imagen 4',
 dev,
 link,
-[['No tocar', usedPrefix + 'menu'] /* etc... */],
+[['No tocar', ''] /* etc... */],
 [[]],
 [[]],
 [[]]
 ]] /* etc... */
-await conn.sendCarousel(m.chat, 'Texto', 'Footer', 'Titulo de Carrusel', messages, m)     
+await conn.sendCarousel(m.chat, 'Texto', 'Decargador Imagen 🔍', text, messages, m)     
 };
 handler.help = ['imagen <query>'];
 handler.tags = ['buscador', 'tools', 'descargas'];
