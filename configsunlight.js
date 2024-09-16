@@ -35,7 +35,7 @@ global.titulowm = '𝐍𝐢𝐥𝐨𝐮𝐁𝐨𝐭-𝐌𝐃 🍟'
 global.titulowm2 = 'Enzito'
 global.igfg = 'ᴇɴᴢɪᴛᴏ'
 global.botname = 'ɴɪʟᴏᴜ ʙᴏᴛ - ᴍᴅ 🚩'
-global.dev = '👑 Developed By • ✨ Enzito'
+global.dev = '© Powered By Sunlight Team ⚡︎'
 global.textbot = '𝗡𝗶𝗹𝗼𝘂𝗕𝗼𝘁 : 𝗘𝗻𝘇𝗶𝘁𝗼𝗢𝗳𝗰 🚩'
 global.vs = '2.0.2'
 
