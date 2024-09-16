@@ -13,15 +13,15 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
 const messages = [[ // CARRUSEL 1
 '1 Imagen', 
 dev,
-await res.getRandom()
+await res.getRandom()]
 ], [ // CARRUSEL 2
 '2 Imagen',
 dev,
-await res.getRandom()
+await res.getRandom()]
 ], [ // CARRUSEL 3
 '3 Imagen',
 dev,
-await res.getRandom()
+await res.getRandom()]
 ], [ // CARRUSEL 4
 '4 Imagen',
 dev,
