@@ -25,7 +25,7 @@ await res.getRandom()]
 ], [ // CARRUSEL 4
 '4 Imagen',
 dev,
-await res.getRandom()
+await res.getRandom()]
 ]] 
 await conn.sendCarousel(m.chat, '🚩 Buscador - Imagenes', `> 🔍 Resultado de: ${text}`, text, messages, fkontak)     
 };
