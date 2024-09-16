@@ -3,7 +3,7 @@ import fetch from 'node-fetch'
 
 export async function before(m, {conn, participants, groupMetadata}) {
   if (!m.messageStubType || !m.isGroup) return !0;
-    img = imagen1
+   let img = imagen1
 
   let chat = global.db.data.chats[m.chat]
 
