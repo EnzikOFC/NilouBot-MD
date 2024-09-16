@@ -42,8 +42,8 @@ await res.getRandom(),
 [[]],
 [[]],
 [[]]
-]] /* etc... */
-await conn.sendCarousel(m.chat, '🚩 Buscador - Imagenes', `> 🔍 Resultado de: ${text}`, text, messages, m)     
+]]
+await conn.sendCarousel(m.chat, '🚩 Buscador - Imagenes', `🔍 Resultado de: ${text}`, text, messages, m)     
 };
 handler.help = ['imagen <query>'];
 handler.tags = ['buscador', 'tools', 'descargas'];
