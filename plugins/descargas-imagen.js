@@ -11,13 +11,7 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
   const image = await res.getRandom();
   const link = image;
  // conn.sendFile(m.chat, link, 'error.jpg', `*🔎 Resultado De: ${text}*\n> ${textbot}`, m, null, rcanal);
-const messages = link.map((image) => [ null, null, '/menu', 
-[['orueba', '/menu']],
-null, 
-[['Siguiente', '/menu']], 
-[['prueba', '/menu']]
-])
-await conn.sendCarousel(m.chat, 'Texto', 'Footer', 'Titulo de Carrusel', messages, m)            
+await conn.sendCarousel(m.chat, 'Texto', 'Footer', 'Titulo de Carrusel', link, m)            
 };
 handler.help = ['imagen <query>'];
 handler.tags = ['buscador', 'tools', 'descargas'];
