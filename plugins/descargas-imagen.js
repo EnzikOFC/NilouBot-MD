@@ -13,19 +13,19 @@ const handler = async (m, {conn, text, usedPrefix, command}) => {
 const messages = [[ // CARRUSEL 1
 'Imagen 1', 
 dev,
-await res.getRandom()]
+await res.getRandom()
 ], [ // CARRUSEL 2
 'Imagen 2',
 dev,
-await res.getRandom()]
+await res.getRandom()
 ], [ // CARRUSEL 3
 'Imagen 3',
 dev,
-await res.getRandom()]
+await res.getRandom()
 ], [ // CARRUSEL 4
 'Imagen 4',
 dev,
-await res.getRandom()]
+await res.getRandom()
 ]] 
 await conn.sendCarousel(m.chat, '🚩 Buscador - Imagenes', `🔍 Resultado de: ${text}`, text, messages, m)     
 };
