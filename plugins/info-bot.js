@@ -1,12 +1,14 @@
-import fs from 'fs';
-const handler = (m) => m;
-handler.all = async function(m) {
+var handler = m => m
+handler.all = async function (m) {
 
-const chat = global.db.data.chats[m.chat];
-if (chat.isBaneed) return
-if (/^bot$/i.test(m.text)) {
-conn.reply(m.chat, `🚩 ¡Hola! Soy Nilou, en que puedo ayudarte hoy?\n\n✰ Usa *!menu* para ver mis comandos.`, m, rcanal, )
+let chat = global.db.data.chats[m.chat]
+
+if (/^bot$/i.test(m.text) && !chat.isBanned) {
+
+conn.sendPresenceUpdate('composing', m.chat)    
+conn.reply(m.chat, '🎌 *Estoy aquí para ayudarte*', m, fake, )}
+
+return !0
+
 }
-return !0;
-};
-export default handler;
+export default handler
