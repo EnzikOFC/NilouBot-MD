@@ -1,7 +1,7 @@
 import fg from 'api-dylux'
 import yts from 'yt-search'
 import { youtubedl, youtubedlv2 } from '@bochilteam/scraper'
-let limit = 350
+let limit = 3000
 let handler = async (m, { conn, text, isPrems, isOwner, usedPrefix, command }) => {
 if (!m.quoted) return conn.reply(m.chat, '🚩 *Etiqueta el mensaje que contenga el resultado de Play*', m, rcanal)
 if (!m.quoted.text.includes("*乂  Y O U T U B E  -  P L A Y  乂*")) return conn.reply(m.chat, 'ツ *𝑬𝒕𝒊𝒒𝒖𝒆𝒕𝒂 𝒆𝒍 𝒎𝒆𝒏𝒔𝒂𝒋𝒆 𝒒𝒖𝒆 𝒄𝒐𝒏𝒕𝒆𝒏𝒈𝒂 𝒆𝒍 𝒓𝒆𝒔𝒖𝒍𝒕𝒂𝒅𝒐 𝒅𝒆 𝑷𝒍𝒂𝒚*', m, rcanal)
