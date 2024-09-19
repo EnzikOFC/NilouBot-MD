@@ -63,7 +63,7 @@ global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻�
 
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029VajIId22phHQLslZah1n' 
-var canal2 = 'https://whatsapp.com/channel/0029VajIId22phHQLslZah1n'  
+var canal2 = 'https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z'  
 var git = 'https://github.com/EnzikOFC' 
 var youtube = 'https://www.youtube.com/@Enzito-19' 
 var github = 'https://github.com/EnzikOFC/NilouBot-MD' 
