@@ -47,8 +47,9 @@ global.imagen3 = fs.readFileSync('./Menu3.jpg')
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp1 = 'https://chat.whatsapp.com/IICmKudSbuGBFKMPZitp0h' //Grupo Oficial De Goku
 global.gp2 = 'https://chat.whatsapp.com/KQA5YEnMMhE9PQODSh6I7B' //Grupo Oficial De Goku 2 
-global.gp3 = 'https://chat.whatsapp.com/FOS2BU04peN3cQaiDmLq0j' //KiraBot Y Goku
-global.gp4 = 'https://chat.whatsapp.com/EVc2XJuZwjnKKdWUsRYmms' //NilouBot Y Goku 𝗙𝗔𝗟𝗧𝗔
+global.gp3 = 'https://chat.whatsapp.com/J6srANAtPfgINcsceu3v5d'
+global.gp4 = 'https://chat.whatsapp.com/FOS2BU04peN3cQaiDmLq0j' //KiraBot Y Goku
+global.gp5 = 'https://chat.whatsapp.com/EVc2XJuZwjnKKdWUsRYmms' //NilouBot Y Goku 𝗙𝗔𝗟𝗧𝗔
 global.comunidad1 = ''
 global.comunidad2 = 'https://chat.whatsapp.com/GpbF3JCTEr2CSj3zLJ1IQj' //Comunidad de Moonligth
 global.channel = 'https://whatsapp.com/channel/0029VajIId22phHQLslZah1n' //Canal Oficial
