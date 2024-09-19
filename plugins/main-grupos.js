@@ -7,13 +7,16 @@ ${gp1}
 🌹 ${packname} 2
 ${gp2}
 
+🌹 ${packname} 3
+${gp3}
+
  *◜🤍 COLABORACIONES 🤍◞*
 
 💖 ${colab1}
-${gp3}
+${gp4}
 
 💖 ${colab2}
-${gp4}
+${gp5}
 
 💖 ${namecomu}
 ${comunidad1}
