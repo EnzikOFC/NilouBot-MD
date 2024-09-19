@@ -50,7 +50,7 @@ const defaultMenu = {
 .    ╭─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🍧⃘⃪۪֟፝֯۫۫۫۬◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈ ─๋︩︪─╮
 ╭╼☁️⬪࣪ꥈ𑁍⃪࣭۪ٜ݊݊݊݊݊໑ٜ࣪ 🄼🄴🄽🅄-🄱🄾🅃໑⃪࣭۪ٜ݊݊݊݊𑁍ꥈ࣪⬪☁️
 ┃֪࣪  ╰─ׅ─ׅ┈ ─๋︩︪─☪︎︎︎̸⃘̸࣭ٜ࣪࣪࣪۬◌⃘۪֟፝֯۫۫︎⃪𐇽۫۬🍧⃘⃪۪֟፝֯۫۫۫۬◌⃘࣭ٜ࣪࣪࣪۬☪︎︎︎︎̸─ׅ─ׅ┈ ─๋︩︪─╯
-├ׁ̟̇❍✎ *🄶tipo Oficial* https://chat.whatsapp.com/IICmKudSbuGBFKMPZitp0h
+├ׁ̟̇❍✎ *🄶rupo Oficial* https://chat.whatsapp.com/IICmKudSbuGBFKMPZitp0h
 ├ׁ̟̇❍✎ *🄲ʀᴇᴀᴅᴏʀ:* _ᴇɴᴢɪᴛᴏ_
 ├ׁ̟̇❍✎ *🄼ᴏᴅᴏ:* Público
 ├ׁ̟̇❍✎ *🄱ᴀɪʟᴇʏs:* Multi Device
