@@ -43,7 +43,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F770EE&background=FF000000&repeat=false&width=435&lines=%F0%9F%96%87%EF%B8%8F+Hostings+Donde+Esta+GokuBot-MD+%E2%9C%A8" alt="Typing SVG" /></a>
+### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F770EE&background=FF000000&repeat=false&width=435&lines=%F0%9F%96%87%EF%B8%8F+Hostings+Donde+Esta+NilouBot-MD+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
