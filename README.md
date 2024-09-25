@@ -13,11 +13,10 @@
 
 | APP | TIPO | ENLACE |
 |------|-------------|-------|
-| WhatsApp | Canal GokuBot-MD | [¡Click aquí!](https://whatsapp.com/channel/0029VaJL0xn0LKZL7FtiRs1e) |
+| WhatsApp | Canal NilouBot-MD | [¡Click aquí!](https://whatsapp.com/channel/0029VaJL0xn0LKZL7FtiRs1e) |
 | WhatsApp | Canal Sunlight | [¡Click aquí!](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z) |
-| WhatsApp | Grupo GokuBot-MD | [¡Click aquí!](https://chat.whatsapp.com/Gd85w1s6tKh5Nw4p490xBw) |
+| WhatsApp | Grupo NilouBot-MD | [¡Click aquí!](https://chat.whatsapp.com/Gd85w1s6tKh5Nw4p490xBw) |
 | WhatsApp | Gp SixFin | [¡Click aquí!](https://chat.whatsapp.com/K0rTI0UA1O12w72A1CsQSH) |
-| WhatsApp | Canal CorinPlus Host | [¡Click aquí!](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g) |
 
 ### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=DFF700&width=435&lines=%F0%9F%92%96+GRUPO+DEL+BOT+%F0%9F%92%96" alt="Typing SVG" /></a>
 
@@ -49,8 +48,6 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### **`Superiority Pro Hosting 🤖`**
-<a href="https://dash.superiority.pro/login"><img src="https://qu.ax/TiBm.jpg" height="125px"></a>
 
 <details>
  <summary><b>:paperclip: Enlaces Importantes</b></summary>
