@@ -72,13 +72,13 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF0000&width=435&lines=%E2%80%A2+Dashboard%3A" alt="Typing SVG" /></a> 
-[`Aquí`](https://dash.corinplus.com/)
+[`Aquí`](https://store.azuraultra-host.pro/login/)
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FF0000&width=435&lines=%E2%80%A2+Panel%3A" alt="Typing SVG" /></a> 
-[`Aquí`](https://ctrl.corinplus.com/)
+[`Aquí`](https://store.azuraultra-host.pro/login/)
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
