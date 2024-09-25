@@ -95,7 +95,7 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-**<details><summary> Configuración Del Servidor De GokuBot-MD </summary><img src="https://qu.ax/Cohs.jpg"></details>**
+**<details><summary> Configuración Del Servidor De NilouBot-MD </summary><img src="https://qu.ax/Cohs.jpg"></details>**
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
