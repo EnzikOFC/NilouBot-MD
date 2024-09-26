@@ -52,7 +52,7 @@
 <a href="https://dash.superiority.pro/login"><img src="https://qu.ax/TiBm.jpg" height="125px"></a>
 
 <details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
+ <summary><b>:paperclip: Enlaces Importantes [Click Aquí]</b></summary>
 
 - **Dashboard:** [`Aquí`](https://store.azuraultra-host.pro)
 - **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/LbjpDV0KmZ48iHFSy6n1Gz)
