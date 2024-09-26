@@ -58,16 +58,6 @@
 - **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/LbjpDV0KmZ48iHFSy6n1Gz)
 - **Canal - Oficial:** [`Aquí`](https://whatsapp.com/channel/0029VaoRzN0KmCPMFNe3TD1b)
 
-</details>
-
-
-<details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
-
-- **Dashboard:** [`Aquí`](https://store.azuraultra-host.pro)
-- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/LbjpDV0KmZ48iHFSy6n1Gz)
-- **Canal - Oficial:** [`Aquí`](https://whatsapp.com/channel/0029VaoRzN0KmCPMFNe3TD1b)
-
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
