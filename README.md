@@ -112,7 +112,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
  ### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FFCE00&width=435&lines=%F0%9F%91%91+DUDAS+SOBRE+EL+BOT%3F%2CCONTACTA+AL+CREADOR+%F0%9F%91%91" alt="Typing SVG" /></a> 
-<a href="http://wa.me/593939005387" target="blank"><img src="https://img.shields.io/badge/ENZITO_CREADOR-De_NilouBot_~MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5491168758497?text=Hola,+Tu+Eres+El+Creador+De+NilouBot-MD+Y+YurineBot-MD❓" target="blank"><img src="https://img.shields.io/badge/ENZITO_CREADOR-De_NilouBot_~MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
