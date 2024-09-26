@@ -17,17 +17,6 @@
 | WhatsApp | Canal Sunlight | [¡Click aquí!](https://whatsapp.com/channel/0029Vam7yUg77qVaz3sIAp0z) |
 | WhatsApp | Grupo NilouBot-MD | [¡Click aquí!](https://chat.whatsapp.com/Gd85w1s6tKh5Nw4p490xBw) |
 | WhatsApp | Gp SixFin | [¡Click aquí!](https://chat.whatsapp.com/K0rTI0UA1O12w72A1CsQSH) |
-### **`Superiority Pro Hosting 🤖`**
-<a href="https://dash.superiority.pro/login"><img src="https://qu.ax/TiBm.jpg" height="125px"></a>
-
-<details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
-
-- **Dashboard:** [`Aquí`](https://store.azuraultra-host.pro)
-- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/LbjpDV0KmZ48iHFSy6n1Gz)
-- **Canal - Oficial:** [`Aquí`](https://whatsapp.com/channel/0029VaoRzN0KmCPMFNe3TD1b)
-
-</details>
 
 ### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=4000&pause=1000&color=DFF700&width=435&lines=%F0%9F%92%96+GRUPO+DEL+BOT+%F0%9F%92%96" alt="Typing SVG" /></a>
 
@@ -58,6 +47,18 @@
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+### **`Superiority Pro Hosting 🤖`**
+<a href="https://dash.superiority.pro/login"><img src="https://qu.ax/TiBm.jpg" height="125px"></a>
+
+<details>
+ <summary><b>:paperclip: Enlaces Importantes</b></summary>
+
+- **Dashboard:** [`Aquí`](https://store.azuraultra-host.pro)
+- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/LbjpDV0KmZ48iHFSy6n1Gz)
+- **Canal - Oficial:** [`Aquí`](https://whatsapp.com/channel/0029VaoRzN0KmCPMFNe3TD1b)
+
+</details>
 
 
 <details>
@@ -112,7 +113,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
  ### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FFCE00&width=435&lines=%F0%9F%91%91+DUDAS+SOBRE+EL+BOT%3F%2CCONTACTA+AL+CREADOR+%F0%9F%91%91" alt="Typing SVG" /></a> 
-<a href="http://wa.me/5491168758497?text=Hola,+Tu+Eres+El+Creador+De+NilouBot-MD+Y+YurineBot-MD❓" target="blank"><img src="https://img.shields.io/badge/ENZITO_CREADOR-De_NilouBot_~MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/5491168758497?text=Holaaaa,+Tu+Eres+El+Creador+De+NilouBot-MD+Y+De+YurineBot-MD?+" target="blank"><img src="https://img.shields.io/badge/ENZITO_CREADOR-De_NilouBot_~MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
