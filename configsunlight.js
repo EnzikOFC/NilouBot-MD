@@ -46,7 +46,7 @@ global.imagen3 = fs.readFileSync('./Menu3.jpg')
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
 global.gp1 = 'https://chat.whatsapp.com/E867Fqb9zYJHlMJ2Rulckc' //Grupo Oficial De Goku
-global.gp2 = https://chat.whatsapp.com/E867Fqb9zYJHlMJ2Rulckc' //Grupo Oficial De Goku 2 
+global.gp2 = 'https://chat.whatsapp.com/E867Fqb9zYJHlMJ2Rulckc' //Grupo Oficial De Goku 2 
 global.gp3 = 'https://chat.whatsapp.com/E867Fqb9zYJHlMJ2Rulckc'
 global.gp4 = 'https://chat.whatsapp.com/E867Fqb9zYJHlMJ2Rulckc' //KiraBot Y Goku
 global.gp5 = 'https://chat.whatsapp.com/E867Fqb9zYJHlMJ2Rulckc' //NilouBot Y Goku 𝗙𝗔𝗟𝗧𝗔
