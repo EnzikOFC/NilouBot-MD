@@ -21,7 +21,7 @@ return conn.reply(m.chat, `「💭」Solo puedes usar este comando en el bot pri
 }
 async function serbot() {
 let serbotFolder = crypto.randomBytes(10).toString('hex').slice(0, 8)
-let folderSub = `./NilouJadiBot/${serbotFolder}`
+let folderSub = `./GokuJadiBot/${serbotFolder}`
 if (!fs.existsSync(folderSub)) {
 fs.mkdirSync(folderSub, { recursive: true })
 }
@@ -34,7 +34,7 @@ const { version } = await fetchLatestBaileysVersion()
 const connectionOptions = {
 logger: pino({ level: 'silent' }),
 printQRInTerminal: true,
-browser: ['Nilou Sub-Bot', 'Edge', '2.0.0'],
+browser: ['Goku Sub-Bot', 'Edge', '2.0.0'],
 auth: {
 creds: state.creds,
 keys: makeCacheableSignalKeyStore(state.keys, pino({ level: "fatal" }).child({ level: "fatal" })),
@@ -102,7 +102,7 @@ if (i >= 0) {
 delete global.conns[i]
 global.conns.splice(i, 1)
 }
-fs.rmdirSync(`./NilouJadiBot/${serbotFolder}`, { recursive: true })
+fs.rmdirSync(`./GokuJadiBot/${serbotFolder}`, { recursive: true })
 }
 }, 30000)
 let handler = await import("../handler.js")
@@ -151,7 +151,7 @@ serbot()
 }
 handler.help = ["serbot"]
 handler.tags = ["jadibot"]
-handler.command = ["serbot", "jadibot", "qr", "botclone"]
+handler.command = ["serbot", "subbot gokusito", "jadibot", "qr", "botclone"]
 // handler.register = true
 export default handler
 function sleep(ms) {
