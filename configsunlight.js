@@ -16,9 +16,7 @@ global.confirmCode = ''
 global.owner = [
 ['5491168758497', '💥 Creador 💫', true],
 ['573012482597', 'Dev Diego 🚩', true],
-['5493876432076', 'Dev Diego ☁️' , true],
-['593978663361', 'Jostin ɪ 🌻', true],
-['593939005387', 'Jostin ɪɪ 🗿', true]
+['593978663361', 'Jostin ɪ 🌻', true]
 ]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
