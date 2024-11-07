@@ -15,7 +15,6 @@ global.confirmCode = ''
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
 ['5491168758497', '💥 Creador 💫', true],
-['573012482597', 'Dev Diego 🚩', true],
 ['593978663361', 'Jostin ɪ 🌻', true]
 ]
 
