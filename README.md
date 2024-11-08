@@ -43,10 +43,6 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F770EE&background=FF000000&repeat=false&width=435&lines=%F0%9F%96%87%EF%B8%8F+Hostings+Donde+Esta+NilouBot-MD+%E2%9C%A8" alt="Typing SVG" /></a>
-
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
  ### <a href="https://github.com/Jostin207"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=FFCE00&width=435&lines=%F0%9F%91%91+DUDAS+SOBRE+EL+BOT%3F%2CCONTACTA+AL+CREADOR+%F0%9F%91%91" alt="Typing SVG" /></a> 
 <a href="https://wa.me/5491168758497?text=Holaaaa,+Tu+Eres+El+Creador+De+NilouBot-MD+Y+De+YurineBot-MD?+" target="blank"><img src="https://img.shields.io/badge/ENZITO_CREADOR-De_NilouBot_~MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
